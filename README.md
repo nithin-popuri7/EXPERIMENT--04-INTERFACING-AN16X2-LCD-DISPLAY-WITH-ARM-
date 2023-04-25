@@ -400,7 +400,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-### Output screen shots of proteus  :
+## Output screen shots of proteus  :
 
 
 ![exp 4 1](https://user-images.githubusercontent.com/94154780/234363521-6ce43435-b58e-4bb9-a9af-cd2eb998c52a.jpeg)
