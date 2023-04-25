@@ -401,10 +401,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+![exp 4 1](https://user-images.githubusercontent.com/94154780/234363274-b0d5cfb6-0cb1-436b-8642-e36a3864f242.jpeg)
 
-![exp 4 1](https://user-images.githubusercontent.com/94154780/234362851-e5a437be-55ef-45f2-9ced-adbca3d17126.jpeg)
-
-![exp 4 2](https://user-images.githubusercontent.com/94154780/234362904-ab11be11-7e03-40de-87c9-6c8af1e46307.jpeg)
+![exp 4 2](https://user-images.githubusercontent.com/94154780/234363290-edb2cf33-7f21-4233-9b07-272a7007b25a.jpeg)
 
  
 ## Result :
