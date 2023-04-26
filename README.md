@@ -402,7 +402,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![github.logo](exp4.jpeg)
+![github.logo](exp3.png)
 
 ![github.logo](exp4.1.jpeg)
 
