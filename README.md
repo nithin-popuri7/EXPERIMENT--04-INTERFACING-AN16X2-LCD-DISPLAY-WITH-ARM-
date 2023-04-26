@@ -177,6 +177,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 Name:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
+```
 /* USER CODE BEGIN Header */
 /**
   **********
@@ -401,7 +402,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![exp4 1](https://user-images.githubusercontent.com/94154780/234439895-d970ba72-2837-4754-86a6-b984b833403b.jpeg)
+![github.logo](exp4.jpeg)
 
 
 ## Result :
